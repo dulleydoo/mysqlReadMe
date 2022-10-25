@@ -1,4 +1,4 @@
-# mysqlReadMe
+# mysqlReadMe.
 mysql> show tables;
 +----------------------+
 | Tables_in_year12flix |
